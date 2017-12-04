@@ -1,6 +1,6 @@
 {
   "name": "react-native-swipeable-overlay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A swipeable overlay component for react native",
   "main": "src/index.js",
   "scripts": {
