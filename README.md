@@ -23,7 +23,7 @@ Any valid React Native View can be passed as content of the SwipeableOverlay. Th
 To show use something like ``` <Text onPress={ () => { this.overlay.show() } }>Show</Text> ```  
 
 ### Installation
-- `npm install --save rn-halfcard`
+- `npm install --save react-native-swipeable-overlay`
 
 License
 ----
